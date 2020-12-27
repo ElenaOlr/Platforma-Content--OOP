@@ -1,0 +1,158 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/user/Desktop/Platforma content/controller/Controller.cpp
+headers/Controller.h
+C:/Users/user/Desktop/Platforma content/controller/headers/Controller.h
+
+C:/Users/user/Desktop/Platforma content/controller/List.cpp
+headers/List.h
+C:/Users/user/Desktop/Platforma content/controller/headers/List.h
+fstream
+-
+
+C:/Users/user/Desktop/Platforma content/controller/Map.cpp
+headers/Map.h
+C:/Users/user/Desktop/Platforma content/controller/headers/Map.h
+../model/headers/Jpeg.h
+C:/Users/user/Desktop/Platforma content/model/headers/Jpeg.h
+../model/headers/Png.h
+C:/Users/user/Desktop/Platforma content/model/headers/Png.h
+fstream
+-
+
+C:/Users/user/Desktop/Platforma content/controller/Set.cpp
+headers/Set.h
+C:/Users/user/Desktop/Platforma content/controller/headers/Set.h
+fstream
+-
+
+C:/Users/user/Desktop/Platforma content/controller/Vector.cpp
+headers/Vector.h
+C:/Users/user/Desktop/Platforma content/controller/headers/Vector.h
+fstream
+-
+string
+-
+
+C:/Users/user/Desktop/Platforma content/controller/headers/Controller.h
+List.h
+C:/Users/user/Desktop/Platforma content/controller/headers/List.h
+Vector.h
+C:/Users/user/Desktop/Platforma content/controller/headers/Vector.h
+Map.h
+C:/Users/user/Desktop/Platforma content/controller/headers/Map.h
+Set.h
+C:/Users/user/Desktop/Platforma content/controller/headers/Set.h
+
+C:/Users/user/Desktop/Platforma content/controller/headers/List.h
+../../model/headers/Film.h
+C:/Users/user/Desktop/Platforma content/model/headers/Film.h
+list
+-
+
+C:/Users/user/Desktop/Platforma content/controller/headers/Map.h
+../../model/headers/Imagine.h
+C:/Users/user/Desktop/Platforma content/model/headers/Imagine.h
+string
+-
+map
+-
+
+C:/Users/user/Desktop/Platforma content/controller/headers/Set.h
+../../model/headers/Scurtmetraj.h
+C:/Users/user/Desktop/Platforma content/model/headers/Scurtmetraj.h
+set
+-
+
+C:/Users/user/Desktop/Platforma content/controller/headers/Vector.h
+../../model/headers/Serial.h
+C:/Users/user/Desktop/Platforma content/model/headers/Serial.h
+vector
+-
+
+C:/Users/user/Desktop/Platforma content/main.cpp
+iostream
+-
+controller/headers/Vector.h
+C:/Users/user/Desktop/Platforma content/controller/headers/Vector.h
+controller/headers/Controller.h
+C:/Users/user/Desktop/Platforma content/controller/headers/Controller.h
+view/headers/UI.h
+C:/Users/user/Desktop/Platforma content/view/headers/UI.h
+
+C:/Users/user/Desktop/Platforma content/model/Film.cpp
+iostream
+-
+headers/Film.h
+C:/Users/user/Desktop/Platforma content/model/headers/Film.h
+
+C:/Users/user/Desktop/Platforma content/model/Imagine.cpp
+headers/Imagine.h
+C:/Users/user/Desktop/Platforma content/model/headers/Imagine.h
+
+C:/Users/user/Desktop/Platforma content/model/Jpeg.cpp
+headers/Jpeg.h
+C:/Users/user/Desktop/Platforma content/model/headers/Jpeg.h
+
+C:/Users/user/Desktop/Platforma content/model/Png.cpp
+headers/Png.h
+C:/Users/user/Desktop/Platforma content/model/headers/Png.h
+
+C:/Users/user/Desktop/Platforma content/model/Scurtmetraj.cpp
+headers/Scurtmetraj.h
+C:/Users/user/Desktop/Platforma content/model/headers/Scurtmetraj.h
+string
+-
+
+C:/Users/user/Desktop/Platforma content/model/Serial.cpp
+iostream
+-
+headers/Serial.h
+C:/Users/user/Desktop/Platforma content/model/headers/Serial.h
+
+C:/Users/user/Desktop/Platforma content/model/headers/Film.h
+string
+-
+
+C:/Users/user/Desktop/Platforma content/model/headers/Imagine.h
+string
+-
+
+C:/Users/user/Desktop/Platforma content/model/headers/Jpeg.h
+Imagine.h
+C:/Users/user/Desktop/Platforma content/model/headers/Imagine.h
+
+C:/Users/user/Desktop/Platforma content/model/headers/Png.h
+Imagine.h
+C:/Users/user/Desktop/Platforma content/model/headers/Imagine.h
+
+C:/Users/user/Desktop/Platforma content/model/headers/Scurtmetraj.h
+Film.h
+C:/Users/user/Desktop/Platforma content/model/headers/Film.h
+iostream
+-
+
+C:/Users/user/Desktop/Platforma content/model/headers/Serial.h
+string
+-
+
+C:/Users/user/Desktop/Platforma content/view/UI.cpp
+headers/UI.h
+C:/Users/user/Desktop/Platforma content/view/headers/UI.h
+iostream
+-
+fstream
+-
+map
+-
+
+C:/Users/user/Desktop/Platforma content/view/headers/UI.h
+../../controller/headers/Controller.h
+C:/Users/user/Desktop/Platforma content/controller/headers/Controller.h
+

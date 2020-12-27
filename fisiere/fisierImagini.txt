@@ -1,0 +1,3 @@
+caradasca,Png,140,240
+urechelnita,Jpeg,1200,1400
+cisterna,Png,400,200

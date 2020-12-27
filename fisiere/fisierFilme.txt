@@ -1,0 +1,3 @@
+The Godfather (1972),Crime,180,1604240
+The Shawshank Redemption (1994),Drama,140,2322450
+Fight Club (1999),Drama,139,1800000
